@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  /* background-image: url("../public/assets/cf82738f8209f01c005343e2c4180fef.jpg" ); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ /* background: linear-gradient( 100% , 100% , "../public/assets/cf82738f8209f01c005343e2c4180fef.jpg" ); */
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.acc__item{
+  width: 100%;
+  padding: 15px;
+  cursor: pointer;
+  margin: 10px 0px;
+  border: 1px solid #000 !important;
+}
+html,body{
+  overflow-x: hidden;
+}
+.equField{
+  padding: 10px 5px;
+}
+.xuField{
+  width: 48%;
+  padding: 10px 5px;
+
+}
+.xlField{
+  width: 48%;
+  padding: 10px 5px;
+
+
+}
+.error{
+  padding: 10px 5px;
+
+}
